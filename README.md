@@ -1,4 +1,5 @@
 # My Portfolio
+![image](https://github.com/aanuradha86/Portfolio/assets/89721805/cefab9e9-df7d-4ce9-851f-a0a9266c7c1d)
 
 Welcome to my portfolio! This website showcases my work, skills, and experiences as a Web developer and serves as a platform to share my passion for web development. Here, you'll find a collection of my projects, achievements, and a bit about myself.
 ## About Me
